@@ -1,0 +1,205 @@
+/*============ Extra small devices (portrait phones, less than 576px) ==============*/
+@media (max-width: 575.98px) {
+    .navbar-collapse {
+        background: #000;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    .navbar-light .navbar-nav .nav-link.active {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    #banner-area {
+        padding-top: 140px;
+        padding-bottom: 120px;
+    }
+
+    .banners h1 {
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .typed-cursor {
+        font-size: 27px;
+    }
+
+    .banners p {
+        font-size: 15px;
+        padding: 0;
+        padding-top: 10px;
+        padding-bottom: 44px;
+    }
+
+    #team-area .card {
+        margin-bottom: 20px;
+    }
+
+    .design-part {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .design-part p {
+        font-size: 27px;
+        padding-right: 0;
+    }
+
+    .download-part h3 {
+        font-size: 25px;
+    }
+
+    .footer-t-3 h5 {
+        padding-top: 20px;
+    }
+
+    #footer-top-area {
+        padding-bottom: 70px;
+    }
+}
+
+/*============ Small devices (landscape phones, 576px and up) =============*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-collapse {
+        background: #000;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    .navbar-light .navbar-nav .nav-link.active {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    #banner-area {
+        padding-top: 140px;
+        padding-bottom: 120px;
+    }
+
+    .banners h1 {
+        font-size: 35px;
+        padding: 0;
+    }
+
+    .typed-cursor {
+        font-size: 38px;
+    }
+
+    .banners p {
+        padding: 0;
+        padding-top: 10px;
+        padding-bottom: 44px;
+    }
+
+    #team-area .card {
+        margin-bottom: 20px;
+    }
+
+    #team-area .card .card-body h5 {
+        font-size: 11px;
+    }
+
+    #team-area .card .card-body h4 {
+        font-size: 20px;
+    }
+
+    .design-part {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .design-part p {
+        font-size: 40px;
+        padding-right: 0;
+    }
+
+    .footer-t-3 h5 {
+        padding-top: 20px;
+    }
+}
+
+/*================ Medium devices (tablets, 768px and up) =================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-collapse {
+        background: #000;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    .navbar-light .navbar-nav .nav-link.active {
+        color: #E84545;
+        background: #0f0c0e;
+    }
+
+    #banner-area {
+        padding-top: 140px;
+        padding-bottom: 120px;
+    }
+
+    .banners h1 {
+        font-size: 38px;
+        padding: 0;
+    }
+
+    .typed-cursor {
+        font-size: 38px;
+    }
+
+    .port-overlay h5 {
+        font-size: 12px;
+    }
+
+    #team-area .card {
+        margin-bottom: 20px;
+    }
+
+    .design-part {
+        padding-top: 40px;
+        padding-bottom: 30px;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .design-part p {
+        padding-right: 0;
+    }
+
+    .footer-t-3 h5 {
+        padding-top: 0;
+    }
+}
